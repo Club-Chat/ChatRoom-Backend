@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Static files collected by collectstatic
+staticfiles/
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Redis
+dump.rdb
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Sphinx documentation
+docs/_build/
+
+# Type checker
+.pyre/
+
+# Ruff
+.ruff_cache/
+
+# Django migrations (optional)
+# Uncomment if you don't want to track migrations
+# */migrations/*
+# !*/migrations/__init__.py
+
+# Node modules (if using frontend tooling)
+node_modules/
+
+# Logs
+logs/
+*.log
